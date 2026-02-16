@@ -1,9 +1,9 @@
 //=========================================================================
 // Name & Email must be EXACTLY as in Gradescope roster!
-// Name: 
-// Email: 
+// Name: Nathan Herrera
+// Email: nherr044@ucr.edu
 // 
-// Assignment name: 
+// Assignment name: Lab04 Single cycle
 // Lab section: 
 // TA: 
 // 
